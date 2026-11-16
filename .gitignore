@@ -1,0 +1,6 @@
+# Publish only the course notebooks with their saved outputs.
+/*
+!/.gitignore
+!/C1_*.ipynb
+!/C2_*.ipynb
+!/C3_*.ipynb
